@@ -1,0 +1,4 @@
+is-root01.ischool.uw.edu
+Login: Info330
+Pass: sql
+
